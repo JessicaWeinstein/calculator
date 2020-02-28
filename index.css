@@ -1,0 +1,54 @@
+
+.main{
+    margin:auto;
+    padding-top:10%;
+    padding-left: 10%;
+}
+
+#number1 {
+	width: 100px;
+	height: 44px;
+	background-color: #ffffff;
+	border: 4px solid #a253df;
+    text-align: center;
+}
+
+#number2 {
+    width: 100px;
+	height: 44px;
+	background-color: #ffffff;
+	border: 4px solid #a253df;
+    text-align: center;  
+}
+
+#result {
+    width: 520px;
+	height: 44px;
+	background-color: #a253df;
+	border: 4px solid #ffffff;
+    text-align: center;
+    color:#ffffff;
+    padding-top:5px;
+    font-size: 40px;
+}
+
+
+.action{
+    width:50px;
+    height:50px;
+    font-size: 20px;
+    margin: 4px;
+    background-color:#a253df;
+    color: #ffffff;
+    border: none;
+}
+
+#backgound{
+    background-color: aqua;
+    width: 100%;
+    height:100%;
+/*
+   background: linear-gradient (to right, #e91e63, #3f51b5);
+    height:100%
+*/
+}
